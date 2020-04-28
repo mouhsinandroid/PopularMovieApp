@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popular Movie Stage1</string>
+    <string name="pop_movies">Pop Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="detail_movies">Movie Detail</string>
+    <string name="rate_text">%1$s /10</string>
+    <string name="image_poster_movie">image poster movie</string>
+    <string name="image_movie_detail">image movie detail</string>
+
+
+</resources>
